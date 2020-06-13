@@ -7,13 +7,13 @@
         }
     },
     "inputs": {
-        "WPS_myInput": {
-			"label": "No input",
-			"default": "none",
+        "source_product": {
             "inputBinding": {
-                "position": 1
+                "position": 1,
+                "prefix": "-SsourceProduct=",
+                "separate": false
             },
-            "type": "string"
+            "type": "File"
         }
     },
     "outputs": {
