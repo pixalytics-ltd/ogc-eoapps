@@ -3,7 +3,7 @@
     "class": "CommandLineTool",
     "hints": {
         "DockerRequirement": {
-            "dockerPull": "docker-registry.crim.ca/ogc-public/snap6-flood-detection:v2.12"
+            "dockerPull": "docker-registry.crim.ca/ogc-public/pixalytics_mosaic_remote:latest"
         }
     },
     "inputs": {
