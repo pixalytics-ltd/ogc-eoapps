@@ -6,6 +6,7 @@
             "dockerPull": "docker-registry.crim.ca/ogc-public/snap6-flood-detection:v2.12"
         }
     },
+    "arguments": ["-f", "BEAM-DIMAP", "-t", "flood_detection_output.dim"],
     "inputs": {
         "source_product": {
             "inputBinding": {
@@ -19,7 +20,7 @@
     "outputs": {
         "output": {
             "outputBinding": {
-                "glob": "50.36--4.19-50.42--4.07-RGB-Stretched.TIF"
+                "glob": "flood_detection_output.dim.zip"
             },
             "type": "File"
         }
