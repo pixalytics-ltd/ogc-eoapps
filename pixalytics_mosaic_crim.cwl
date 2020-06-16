@@ -19,7 +19,7 @@
     "outputs": {
         "output": {
             "outputBinding": {
-                "glob": "flood_detection_output.dim.zip"
+                "glob": "50.36--4.19-50.42--4.07-RGB-Stretched.TIF"
             },
             "type": "File"
         }
