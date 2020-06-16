@@ -11,7 +11,8 @@
 			"label": "No input",
 			"default": "none",
             "inputBinding": {
-                "position": 1
+                "position": 1,
+                "separate": false
             },
             "type": "string"
         }
