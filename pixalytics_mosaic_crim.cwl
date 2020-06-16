@@ -7,10 +7,9 @@
         }
     },
     "inputs": {
-        "WPS_myInputt": {
+        "WPS_myInput": {
             "inputBinding": {
                 "position": 1,
-                "prefix": "-SsourceProduct=",
                 "separate": false
             },
             "type": "string"
