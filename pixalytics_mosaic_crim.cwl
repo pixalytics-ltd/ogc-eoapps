@@ -8,7 +8,7 @@
     },
     "inputs": {
         "WPS_myInput": {
-			"default": "none",
+            "default": "none",
             "inputBinding": {
                 "position": 1,
                 "separate": false
