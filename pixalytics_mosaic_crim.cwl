@@ -3,7 +3,7 @@
     "class": "CommandLineTool",
     "hints": {
         "DockerRequirement": {
-            "dockerPull": "docker-registry.crim.ca/ogc-public/pixalytics_mosaic_remote:latest"
+            "dockerPull": "pixalytics/pixalytics_mosaic_remote:latest"
         }
     },
     "inputs": {
