@@ -19,7 +19,7 @@
     "outputs": {
         "output": {
             "outputBinding": {
-                "glob": "50.36--4.19-50.42--4.07-RGB-Stretched.TIF"
+                "glob": "*-RGB-Stretched.TIF"
             },
             "type": "File"
         }
